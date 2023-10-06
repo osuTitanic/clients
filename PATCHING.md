@@ -28,7 +28,7 @@ You can alternatively use a server switcher, like [ultimate-osu-server-switcher]
 
 ## Obfuscated clients
 
-Clients are obfuscated most of the time, which means, that function names, class names, etc. are not readable anymore:
+Clients are obfuscated most of the time, which means that function names, class names, etc. are not readable anymore:
 
 ![obfuscated](https://raw.githubusercontent.com/osuTitanic/clients/main/.github/obfuscated.png)
 

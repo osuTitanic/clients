@@ -18,7 +18,7 @@ and edit the ip address to match your setup:
 
 ![patched](https://raw.githubusercontent.com/osuTitanic/clients/main/.github/patched.png)
 
-And lastly you can patch every url in dnSpy, from `ppy.sh` to match your domain:
+And lastly you need to patch every url in dnSpy, from `ppy.sh` to match your domain:
 
 ![search](https://raw.githubusercontent.com/osuTitanic/clients/main/.github/search.png)
 

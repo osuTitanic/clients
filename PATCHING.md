@@ -26,7 +26,7 @@ However, this can be a bit annoying.
 
 You can alternatively use a server switcher, like [ultimate-osu-server-switcher](https://github.com/minisbett/ultimate-osu-server-switcher) to do that.
 
-### Obfuscated clients
+## Obfuscated clients
 
 Clients are obfuscated most of the time, which means, that function names, class names, etc. are not readable anymore:
 

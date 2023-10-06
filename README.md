@@ -7,6 +7,8 @@ If you want to play a specific version, feel free to make an issue [here](https:
 
 Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
 
+## Screenshots
+
 #### b20130606.1 - 2013 (After UI Update)
 
 ![b20130606](https://github.com/osuTitanic/clients/blob/main/.github/b20130606.1.jpg)

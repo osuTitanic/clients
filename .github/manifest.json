@@ -19,19 +19,19 @@
     },
     {
         "version": "b20120522",
-        "description": "",
+        "description": "Another build from 2012",
         "download": "https://raw.githubusercontent.com/osuTitanic/clients/main/b20120522.zip",
         "screenshot": "/images/clients/b20120522.jpg"
     },
     {
         "version": "b1821",
-        "description": "",
+        "description": "A build from 2011",
         "download": "https://raw.githubusercontent.com/osuTitanic/clients/main/b1821.zip",
         "screenshot": "/images/clients/b1821.jpg"
     },
     {
         "version": "b1700",
-        "description": "",
+        "description": "The last build from 2010",
         "download": "https://raw.githubusercontent.com/osuTitanic/clients/main/b1700.zip",
         "screenshot": "/images/clients/b1700.jpg"
     }

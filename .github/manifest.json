@@ -1,8 +1,14 @@
 [
     {
         "version": "b20130606.1",
-        "description": "A build from 2013 with the new UI update",
-        "alternative": "https://raw.githubusercontent.com/osuTitanic/clients/main/b20130606.1.zip",
+        "description": "A build from 2013 with the new UI overhaul update",
+        "download": "https://raw.githubusercontent.com/osuTitanic/clients/main/b20130606.1.zip",
         "screenshot": "/images/clients/b20130606.1.jpg"
+    },
+    {
+        "version": "b20130303",
+        "description": "The last build before 2013's UI overhaul update",
+        "download": "https://raw.githubusercontent.com/osuTitanic/clients/main/b20130303.zip",
+        "screenshot": "/images/clients/b20130303.jpg"
     }
 ]

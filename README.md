@@ -17,6 +17,11 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 
 ![b20130303](https://github.com/osuTitanic/clients/blob/main/.github/b20130303.jpg)
 
+#### b20120916 - 2012
+
+![image](https://github.com/osuTitanic/clients/assets/65111609/5052b02c-596b-4c34-98ba-e29c8aa147fc)
+
+
 #### b20120522 - 2012
 
 ![b20120522](https://github.com/osuTitanic/clients/blob/main/.github/b20120522.jpg)

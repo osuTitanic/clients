@@ -6,7 +6,7 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots).
 If you want to play a specific version, feel free to make an issue [here](https://github.com/osuTitanic/clients/issues/new/choose).
 
 Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
-## Version index
+## Tested Version index
  - b20130606.1
  - b20130303
  - b20120916
@@ -16,6 +16,7 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
  - b1596 
  - b1218
  - b1077a
+ - b833 (thanks to zverhome(https://osu.lekuru.xyz/u/47) for testing)
  - b753c
  - b699
  - b497
@@ -58,6 +59,9 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 
 #### b1077a - 2009
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/6460b825-f481-429c-9385-a88f3dcc5cad)
+#### b899 - 2010
+
+screen gonna be added asap
 
 #### b753c - 2009
 ![b753cscreen](https://osu.lekuru.xyz/images/clients/b753c.png)

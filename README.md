@@ -9,6 +9,7 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 ## Tested Version index
  - b20130606.1
  - b20130303
+ - b20121223 
  - b20120916
  - b20120522
  - b1821

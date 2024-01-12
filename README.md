@@ -16,6 +16,7 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
  - b1700
  - b1596 
  - b1218
+ - b1122
  - b1077a
  - b833 (thanks to zverhome(https://osu.lekuru.xyz/u/47) for testing)
  - b753c
@@ -35,6 +36,9 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 #### b20130303 - 2013 (Before UI Update)
 
 ![b20130303](https://github.com/osuTitanic/clients/blob/main/.github/b20130303.jpg)
+
+#### b20121223 - 2012
+![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/24a6a8f7-ef36-4b70-824c-f62b3a9d1ab0)
 
 #### b20120916 - 2012
 
@@ -57,6 +61,8 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 
 #### b1218 - 2010
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/e16c7d73-271a-4c16-aca0-3ef531faa828)
+#### b1122 - 2009
+![screenshot002](https://github.com/Zordon1337/clients/assets/65111609/dc8ebd2f-65e6-4218-a43e-7f16f9383b91)
 
 #### b1077a - 2009
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/6460b825-f481-429c-9385-a88f3dcc5cad)

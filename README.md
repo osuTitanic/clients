@@ -13,13 +13,13 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
  - b20120916
  - b20120522
  - b1821
- - b1704 (thanks to zverhome(https://osu.lekuru.xyz/u/47) for testing)
+ - b1704 (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
  - b1700
- - b1596 (thanks to zverhome(https://osu.lekuru.xyz/u/47) for testing)
+ - b1596 (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
  - b1218
  - b1122
  - b1077a
- - b833 (thanks to zverhome(https://osu.lekuru.xyz/u/47) for testing)
+ - b833 (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
  - b753c
  - b699
  - b497

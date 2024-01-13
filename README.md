@@ -64,8 +64,9 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 
 ![image](https://github.com/Zordon1337/clients/assets/65111609/bda9a727-c2fe-4993-8736-fd45173d5b02)
 
-#### b1218 - 2010
+#### b1218 - 2009/10
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/e16c7d73-271a-4c16-aca0-3ef531faa828)
+
 #### b1122 - 2009
 ![screenshot002](https://github.com/Zordon1337/clients/assets/65111609/dc8ebd2f-65e6-4218-a43e-7f16f9383b91)
 
@@ -73,7 +74,7 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/6460b825-f481-429c-9385-a88f3dcc5cad)
 #### b833 - 2009
 
-![Alt text](screenshot002.jpg)
+![Alt text](.github/screenshot002.jpg)
 
 #### b753c - 2009
 ![b753cscreen](https://osu.lekuru.xyz/images/clients/b753c.png)

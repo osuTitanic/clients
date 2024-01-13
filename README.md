@@ -6,7 +6,7 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots).
 If you want to play a specific version, feel free to make an issue [here](https://github.com/osuTitanic/clients/issues/new/choose).
 
 Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
-## Tested Version index
+## Tested Versions
  - b20130606.1
  - b20130303
  - b20121223 

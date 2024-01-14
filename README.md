@@ -7,6 +7,7 @@ If you want to play a specific version, feel free to make an issue [here](https:
 
 Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
 ## Tested Versions
+ - b20140909.11cuttingedge (test version, patched and bypassed(client had restartloop(it were restarting over and over))
  - b20130606.1
  - b20130303
  - b20121223 
@@ -29,6 +30,8 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
  - b294 (not planned to be relased) 
  - b282.test (not planned to be relased)
 ## Screenshots
+#### b20140909.11cuttingedge - 2014 (2015 UI Test)
+![screenshot001](https://github.com/osuTitanic/clients/assets/65111609/559be900-5b69-4f66-91d3-6117cb3e84e2)
 
 #### b20130606.1 - 2013 (After UI Update)
 

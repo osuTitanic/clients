@@ -45,6 +45,7 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 #### b20121223 - 2012
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/24a6a8f7-ef36-4b70-824c-f62b3a9d1ab0)
 #### b20121003shine.test - 2012
+![screenshot001](https://github.com/osuTitanic/clients/assets/65111609/43ecd930-4b87-40f3-b6bd-4734e444b42d)
 
 #### b20120916 - 2012
 

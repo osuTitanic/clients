@@ -6,12 +6,15 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots).
 If you want to play a specific version, feel free to make an issue [here](https://github.com/osuTitanic/clients/issues/new/choose).
 
 Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
+
+**For any legal issues with this repository, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
+
 ## Tested Versions
- - b20140909.11cuttingedge (test version, patched and bypassed(client had restartloop(it were restarting over and over))
+ - b20140909.11cuttingedge (test version, client had a restartloop)
  - b20130606.1
  - b20130303
  - b20121223 
- - b20121003shine.test(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)(everything except web screenshots works)
+ - b20121003shine.test (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
  - b20120916
  - b20120522
  - b1821
@@ -30,7 +33,9 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
  - b296 (not planned to be relased)
  - b294 (not planned to be relased) 
  - b282.test (not planned to be relased)
+
 ## Screenshots
+
 #### b20140909.11cuttingedge - 2014 (2015 UI Test)
 ![screenshot001](https://github.com/osuTitanic/clients/assets/65111609/559be900-5b69-4f66-91d3-6117cb3e84e2)
 

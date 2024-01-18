@@ -10,6 +10,7 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 **For any legal issues with this repository, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
 
 ## Tested Versions
+ - b20141109.14cuttingedge (cutting edge, version with bugged intro, has triangles that you can use custom color when you gonna drop png file to osu window)
  - b20140909.11cuttingedge (test version, client had a restartloop)
  - b20130606.1
  - b20130303
@@ -35,6 +36,8 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
  - b282.test (not planned to be relased)
 
 ## Screenshots
+#### b20141109.14cuttingedge - 2014 (Old ui but settings have new ui)
+![screenshot002](https://github.com/osuTitanic/clients/assets/65111609/048c20f4-491d-49eb-8a90-da6fe6690e22)
 
 #### b20140909.11cuttingedge - 2014 (2015 UI Test)
 ![screenshot001](https://github.com/osuTitanic/clients/assets/65111609/559be900-5b69-4f66-91d3-6117cb3e84e2)

@@ -6,7 +6,7 @@ To actually use the client with the server, you will need to patch it, and I wou
 Also, most of the clients are obfuscated. Please look at the section below on how to patch them.
 
 As far as I know, [b2013606.1](https://osekai.net/snapshots/?version=179) is the latest non-obfuscated version that will work with this server.
-There is support for clients from b2013716 to b282.
+There is support for clients from b282 up to the latest osu! stable version.
 
 You will need to find a line inside `osu.Online.BanchoClient` that looks something like this:
 

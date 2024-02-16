@@ -31,9 +31,7 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
  - b497
  - b452
  - b420
- - b296 (not planned to be relased)
- - b294 (not planned to be relased) 
- - b282.test (not planned to be relased)
+
 
 ## Screenshots
 #### b20141109.14cuttingedge - 2014 (Old ui but settings have new ui)
@@ -106,14 +104,4 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 #### b420 - 2008
 ![b420screen](https://osu.lekuru.xyz/images/clients/b420.png)
 
-#### b296 - 2008
 
-![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/430597e1-8d4e-4fc2-a557-f8113792dac9)
-
-#### b294 - 2008
-
-![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/36ea6b44-a348-4a9e-89be-6ee2700328f0)
-
-#### b282.test - 2008
-
-![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/5db03ba1-6628-48b1-858d-325439fbaec0)

@@ -29,7 +29,7 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
  - b20120522 (version from 2012)
  - b1844.test (build to test the osz2 file format)
  - b1821 (last build from 2011)
- - b1704 (no info), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
+ - b1704 (no info, no download, same b1704), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
  - b1700 (last build from 2010)
  - b1596 (no info, version from 2010), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
  - b1218 (version from early 2010)

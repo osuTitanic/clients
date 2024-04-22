@@ -3,7 +3,7 @@
 
 This was used as a collection of pre-patched clients for use on `osu.lekuru.xyz`. They have been moved to a seperate data source, because of Git-LFS issues.
 
-Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
+Instructions on how to patch osu! clients manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
 
 **For any legal issues with the content provided on osu.lekuru.xyz, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
 

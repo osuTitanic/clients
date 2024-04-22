@@ -1,11 +1,11 @@
 
 ## Clients
 
-Collection of pre-patched clients for use on `osu.lekuru.xyz`. All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots). Most of them have been moved to a seperate data source, because of Git-LFS issues.
+This was used as a collection of pre-patched clients for use on `osu.lekuru.xyz`. They have been moved to a seperate data source, because of Git-LFS issues.
 
 Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
 
-**For any legal issues with this repository, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
+**For any legal issues with the content provided on osu.lekuru.xyz, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
 
 ## Screenshots
 #### b20141109.14cuttingedge - 2014 (Old ui but settings have new ui)

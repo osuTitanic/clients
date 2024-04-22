@@ -17,26 +17,26 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
  - b20141206cuttingedge (with a little easter egg)
  - b20141109.14cuttingedge (cutting edge, has triangles that you can use custom color when you gonna drop png file to osu window)
  - b20140909.11cuttingedge (test version from late 2014, with 2015 UI)
- - b20140909.7cuttingedge (same b20140909.11cuttingedge, without the UI update), **(thanks to [heli](https://osu.lekuru.xyz/u/773) for testing)**
+ - b20140909.7cuttingedge (same b20140909.11cuttingedge, without the UI update), **thanks to [heli](https://osu.lekuru.xyz/u/773) for testing**
  - b20140616.test (earliest versions to support decimal AR, OD, CS values)
  - b20140323.3 (new settings menu)
  - b20131129.1 (first version with global background dim, hit error bar)
  - b20130606.1 (new UI update and some extra patches for relax)
  - b20130303 (last build before 2013's UI update)
  - b20121223 (version from 2012)
- - b20121003shine.test (early version of osu!mania and the fancy benchmark), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
+ - b20121003shine.test (early version of osu!mania and the fancy benchmark), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
  - b20120916 (version from 2012)
  - b20120522 (version from 2012)
  - b1844.test (build to test the osz2 file format)
  - b1821 (last build from 2011)
- - b1704 (no info), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
+ - b1704 (no info, same b1700), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
  - b1700 (last build from 2010)
- - b1596 (no info, version from 2010), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
+ - b1596 (no info, version from 2010), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
  - b1218 (version from early 2010)
  - b1122 (no info, same b1077a with bugfixes)
  - b1077a (added proper widescreen support)
  - b904 (no info)
- - b833 (a very early (and as expected, buggy) implementation of support widescreen), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
+ - b833 (a very early (and as expected, buggy) implementation of support widescreen), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
  - b753c (added local rankings)
  - b699 (no info)
  - b497 (adds a new song select style and the first version of osu!direct)

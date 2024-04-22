@@ -8,10 +8,10 @@ Instructions on how to patch manually [here](https://github.com/osuTitanic/clien
 **For any legal issues with the content provided on osu.lekuru.xyz, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
 
 ## Screenshots
-#### b20141109.14cuttingedge - 2014 (Old ui but settings have new ui)
+#### b20141109.14cuttingedge - 2014
 ![screenshot002](https://github.com/osuTitanic/clients/assets/65111609/048c20f4-491d-49eb-8a90-da6fe6690e22)
 
-#### b20140909.11cuttingedge - 2014 (2015 UI Test)
+#### b20140909.11cuttingedge - 2014 (2015 UI Update)
 ![screenshot001](https://github.com/osuTitanic/clients/assets/65111609/559be900-5b69-4f66-91d3-6117cb3e84e2)
 
 #### b20130606.1 - 2013 (After UI Update)

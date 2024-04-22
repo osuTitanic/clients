@@ -1,5 +1,5 @@
 
-## Clients
+# osu!titanic patched clients 
 
 **Collection of pre-patched clients for use on `osu.lekuru.xyz` (osu!titanic).**
 All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and [Discord](https://discord.gg/qupv72e7YH).
@@ -12,31 +12,31 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
 
 **For any legal issues with this repository, please contact me at Discord or Email: [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
 
-## Tested Versions
+## Tested Versions:
  - b20141222.6cuttingedge (christmas-themed version)
  - b20141206cuttingedge (with a little easter egg)
  - b20141109.14cuttingedge (cutting edge, has triangles that you can use custom color when you gonna drop png file to osu window)
  - b20140909.11cuttingedge (test version from late 2014, with 2015 UI)
- - b20140909.7cuttingedge (same b20140909.11cuttingedge, without the UI update), **thanks to [heli](https://osu.lekuru.xyz/u/773) for testing**
+ - b20140909.7cuttingedge (same b20140909.11cuttingedge, without the UI update), **(thanks to [heli](https://osu.lekuru.xyz/u/773) for testing)**
  - b20140616.test (earliest versions to support decimal AR, OD, CS values)
  - b20140323.3 (new settings menu)
  - b20131129.1 (first version with global background dim, hit error bar)
  - b20130606.1 (new UI update and some extra patches for relax)
  - b20130303 (last build before 2013's UI update)
  - b20121223 (version from 2012)
- - b20121003shine.test (early version of osu!mania and the fancy benchmark), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
+ - b20121003shine.test (early version of osu!mania and the fancy benchmark), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b20120916 (version from 2012)
  - b20120522 (version from 2012)
  - b1844.test (build to test the osz2 file format)
  - b1821 (last build from 2011)
- - b1704 (no info, same b1700), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
+ - b1704 (no info), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b1700 (last build from 2010)
- - b1596 (no info, version from 2010), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
+ - b1596 (no info, version from 2010), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b1218 (version from early 2010)
  - b1122 (no info, same b1077a with bugfixes)
  - b1077a (added proper widescreen support)
  - b904 (no info)
- - b833 (a very early (and as expected, buggy) implementation of support widescreen), **thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing**
+ - b833 (a very early (and as expected, buggy) implementation of support widescreen), **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b753c (added local rankings)
  - b699 (no info)
  - b497 (adds a new song select style and the first version of osu!direct)
@@ -48,12 +48,35 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
 >  - b20141109.14cuttingedge (cutting edge, version with bugged intro)
 >  - b20140909.11cuttingedge (test version, client had a restartloop)
 >  - b20140909.7cuttingedge (cutting edge, client had a restartloop, replace the osu!.cfg with [osu!.cfg patched](https://github.com/NamOpt/clients/blob/patch-1/patched%20file/osu!.cfg) to fix)
-## Screenshots
+
+## Download:
+> [!NOTE]
+> You can download offcial clients on the https://osu.lekuru.xyz/download/, however, downloads on GitHub will have versions that doesn't appear on the osu!titanic website.
+
+## Screenshots:
+#### b20141222.6cuttingedge - 2014/15 (Christmas-themed version)
+![image](https://github.com/NamOpt/clients/assets/120299835/16f7fd16-6237-4b3c-b28d-3abf6af24ab7)
+
+#### b20141206cuttingedge - 2014
+![image](https://github.com/NamOpt/clients/assets/120299835/99f5a817-aba2-4a89-b232-a134bd49074e)
+
 #### b20141109.14cuttingedge - 2014 (Old ui but settings have new ui)
 ![screenshot002](https://github.com/osuTitanic/clients/assets/65111609/048c20f4-491d-49eb-8a90-da6fe6690e22)
 
 #### b20140909.11cuttingedge - 2014 (2015 UI Test)
 ![screenshot001](https://github.com/osuTitanic/clients/assets/65111609/559be900-5b69-4f66-91d3-6117cb3e84e2)
+
+#### b20140909.7cuttingedge - 2014
+![image](https://github.com/NamOpt/clients/assets/120299835/6d17f1cf-25ac-4c65-a92e-596e84bd8ccd)
+
+#### b20140616.test - 2014
+![image](https://github.com/NamOpt/clients/assets/120299835/36b680ed-10a5-4bfd-9062-63a6cddacc03)
+
+#### b20140323.3 - 2014
+![image](https://github.com/NamOpt/clients/assets/120299835/23ade28a-7932-4408-8693-b7f2f461a4f6)
+
+#### b20131129.1 - 2013
+![image](https://github.com/NamOpt/clients/assets/120299835/51144efa-8ad6-426a-b69e-7587503226e7)
 
 #### b20130606.1 - 2013 (After UI Update)
 
@@ -65,6 +88,7 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
 
 #### b20121223 - 2012
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/24a6a8f7-ef36-4b70-824c-f62b3a9d1ab0)
+
 #### b20121003shine.test - 2012
 ![screenshot001](https://github.com/osuTitanic/clients/assets/65111609/43ecd930-4b87-40f3-b6bd-4734e444b42d)
 
@@ -75,6 +99,10 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
 #### b20120522 - 2012
 
 ![b20120522](https://github.com/osuTitanic/clients/blob/main/.github/b20120522.jpg)
+
+#### b1844.test - 2011 (.osz format test)
+
+![image](https://github.com/NamOpt/clients/assets/120299835/13a25c9b-a450-4bc5-8486-6f2d00da175f)
 
 #### b1821 - 2011
 
@@ -99,6 +127,10 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
 
 #### b1077a - 2009
 ![screenshot001](https://github.com/Zordon1337/clients/assets/65111609/6460b825-f481-429c-9385-a88f3dcc5cad)
+
+#### b904 - 2009
+![image](https://github.com/NamOpt/clients/assets/120299835/a130b442-ce6e-4751-a0e7-b04b7a92d6f7)
+
 #### b833 - 2009
 
 ![Alt text](.github/screenshot002.jpg)
@@ -118,5 +150,3 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
 
 #### b420 - 2008
 ![b420screen](https://osu.lekuru.xyz/images/clients/b420.png)
-
-

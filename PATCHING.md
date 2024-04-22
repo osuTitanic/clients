@@ -1,7 +1,7 @@
 
 ## Patching the client
 
-To actually use the client with the server, you will need to patch it, and I would recommend using [dnSpy](https://github.com/dnSpy/dnSpy) for that.
+To actually use the client with a private server, you will need to patch it, and I would recommend using [dnSpy](https://github.com/dnSpy/dnSpy) for that.
 
 Also, most of the clients are obfuscated. Please look at the section below on how to patch them.
 

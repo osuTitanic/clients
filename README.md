@@ -47,7 +47,7 @@ All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and
 > [!WARNING]
 >  - b20141109.14cuttingedge (cutting edge, version with bugged intro)
 >  - b20140909.11cuttingedge (test version, client had a restartloop)
->  - b20140909.7cuttingedge (cutting edge, client had a restartloop, replace the osu!.cfg with [osu!.cfg patched]( to fix)
+>  - b20140909.7cuttingedge (cutting edge, client had a restartloop, replace the osu!.cfg with [osu!.cfg patched](https://github.com/NamOpt/clients/blob/patch-1/patched%20file/osu!.cfg) to fix)
 ## Screenshots
 #### b20141109.14cuttingedge - 2014 (Old ui but settings have new ui)
 ![screenshot002](https://github.com/osuTitanic/clients/assets/65111609/048c20f4-491d-49eb-8a90-da6fe6690e22)

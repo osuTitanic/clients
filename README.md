@@ -1,38 +1,53 @@
 
 ## Clients
 
-Collection of pre-patched clients for use on `osu.lekuru.xyz`.
-All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots).
-If you want to play a specific version, feel free to make an issue [here](https://github.com/osuTitanic/clients/issues/new/choose).
+**Collection of pre-patched clients for use on `osu.lekuru.xyz` (osu!titanic).**
+All clients were taken from [Osekai Snapshots](https://osekai.net/snapshots) and [Discord](https://discord.gg/qupv72e7YH).
+> [!NOTE]
+> If you want to play a **specific version**, feel free to make an **issue/request** in: 
+> - [Github](https://github.com/osuTitanic/clients/issues/new/choose)
+> - [Discord](https://discord.gg/qupv72e7YH)
 
-Instructions on how to patch manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
+**Instructions** on how to **patch manually** [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
 
-**For any legal issues with this repository, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
+**For any legal issues with this repository, please contact me at Discord or Email: [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
 
 ## Tested Versions
+ - b20141222.6cuttingedge
+ - b20141206cuttingedge
  - b20141109.14cuttingedge (cutting edge, version with bugged intro, has triangles that you can use custom color when you gonna drop png file to osu window)
  - b20140909.11cuttingedge (test version, client had a restartloop)
+ - b20140909.7cuttingedge (client had a restartloop)
+ - b20140616.test
+ - b20140323.3
+ - b20131129.1
  - b20130606.1
  - b20130303
  - b20121223 
- - b20121003shine.test (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
+ - b20121003shine.test **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b20120916
  - b20120522
+ - b1844.test
  - b1821
- - b1704 (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
+ - b1704 **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b1700
- - b1596 (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
+ - b1596 **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b1218
  - b1122
  - b1077a
- - b833 (thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)
+ - b904
+ - b833 **(thanks to [zverhome](https://osu.lekuru.xyz/u/47) for testing)**
  - b753c
  - b699
  - b497
  - b452
  - b420
 
-
+## Known bugs:
+> [!WARNING]
+>  - b20141109.14cuttingedge (cutting edge, version with bugged intro)
+>  - b20140909.11cuttingedge (test version, client had a restartloop)
+>  - b20140909.7cuttingedge (cutting edge, client had a restartloop, replace the osu!.cfg with [osu!.cfg patched]( to fix)
 ## Screenshots
 #### b20141109.14cuttingedge - 2014 (Old ui but settings have new ui)
 ![screenshot002](https://github.com/osuTitanic/clients/assets/65111609/048c20f4-491d-49eb-8a90-da6fe6690e22)

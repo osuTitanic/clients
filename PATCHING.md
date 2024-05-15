@@ -5,8 +5,9 @@ To actually use the client with a private server, you will need to patch it, and
 
 Also, most of the clients are obfuscated. Please look at the section below on how to patch them.
 
-As far as I know, [b2013606.1](https://osekai.net/snapshots/?version=179) is the latest non-obfuscated version that will work with this server.
-There is support for clients from b282 up to the latest osu! stable version.
+### Patching the Bancho IP
+
+If your version of osu! is below b20130815, you will have to patch the Bancho IP, to use the Bancho service.
 
 You will need to find a line inside `osu.Online.BanchoClient` that looks something like this:
 
@@ -18,13 +19,15 @@ and edit the ip address to match your setup:
 
 ![patched](https://raw.githubusercontent.com/osuTitanic/clients/main/.github/patched.png)
 
+### Patching the domains
+
 And lastly you need to patch every url in dnSpy, from `ppy.sh` to match your domain:
 
 ![search](https://raw.githubusercontent.com/osuTitanic/clients/main/.github/search.png)
 
 However, this can be a bit annoying.
 
-You can alternatively use a server switcher, like [ultimate-osu-server-switcher](https://github.com/minisbett/ultimate-osu-server-switcher) to do that.
+You can alternatively use a server switcher, like [ultimate-osu-server-switcher](https://github.com/minisbett/ultimate-osu-server-switcher) to skip this part 
 
 ## Obfuscated clients
 

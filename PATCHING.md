@@ -45,3 +45,7 @@ de4dot "osu!.exe"
 
 The program will output a `osu!-cleaned.exe` file, which you can edit again.
 Keep in mind that the function & class names are still not readable.
+
+#### Eazfuscator Obfuscation
+
+Most clients past 2015-2016 are obfuscated using Eazfuscator. I haven't been able to find a good way to deobfuscate these clients correctly, without running into crashes. I would recommend looking at the repositories from [holly](https://github.com/holly-hacker/), since they provide some very useful resources for it.

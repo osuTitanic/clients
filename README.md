@@ -1,10 +1,10 @@
 ## Clients
 
-This was initially used as a collection of patched clients for use on `osu.lekuru.xyz`. They have been moved to a seperate data source, because of Git-LFS issues.
+This was initially used as a collection of patched clients for use on `osu.titanic.sh`. They have been moved to a seperate data source, because of Git-LFS issues.
 
 Instructions on how to patch osu! clients manually [here](https://github.com/osuTitanic/clients/blob/main/PATCHING.md).
 
-**For any legal issues with the content provided on osu.lekuru.xyz, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
+**For any legal issues with the content provided on osu.titanic.sh, please contact me at [contact@lekuru.xyz](mailto:contact@lekuru.xyz)!**
 
 ## Screenshots
 
